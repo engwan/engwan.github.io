@@ -925,6 +925,10 @@
 			color: _palette(accent2, fg);
 			font-size: 1.35em;
 			line-height: 1.75em;
+
+      .small {
+        font-size: 0.8em;
+      }
 		}
 
 		.image.avatar {
