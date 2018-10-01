@@ -925,7 +925,6 @@
 			color: _palette(accent2, fg);
 			font-size: 1.35em;
 			line-height: 1.75em;
-			margin: 0;
 		}
 
 		.image.avatar {
@@ -997,6 +996,10 @@
 				margin-top: 0;
 				padding-top: 0;
 			}
+
+      &:last-child {
+        margin-bottom: $size-header-pad;
+      }
 		}
 	}
 
