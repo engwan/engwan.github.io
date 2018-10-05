@@ -16,6 +16,6 @@ flickr_username:
 github_username:  "engwan"
 feed_icon:
 email: "hleeyu@gmail.com"
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
